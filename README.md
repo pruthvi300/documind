@@ -215,4 +215,4 @@ ruff check app tests
 
 **Pruthviraj Kakade** — Full Stack Developer  
 - GitHub: [github.com/pruthvi300](https://github.com/pruthvi300)
-- LinkedIn: [linkedin.com/in/pruthviraj-kakade-631742169](https://linkedin.com/in/pruthviraj-kakade-631742169)
+- LinkedIn: [linkedin.com/in/pruthvirajkakade](https://linkedin.com/in/pruthvirajkakade)
